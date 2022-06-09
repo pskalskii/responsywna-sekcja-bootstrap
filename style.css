@@ -1,0 +1,26 @@
+* {
+  box-sizing: border-box;
+}
+
+.skills {
+  background-color: whitesmoke;
+}
+
+h2 {
+  text-align: center;
+  color: grey;
+}
+
+i {
+  margin: 20px;
+  padding: 20px;
+  font-size: 40px;
+  background-color: orange;
+  border-radius: 50%;
+}
+
+p {
+  margin: 20px;
+  padding: 20px;
+  color: grey;
+}
